@@ -1,13 +1,24 @@
 SentinelAI
 -----------
 A lightweight machine learning-based phishing URL and spam message detection system built using Python and Streamlit.
+Estimates whether content may be spam, phishing, or potentially unsafe.
 
 SentinelAI analyzes:
 - SMS messages
 - Emails
 - URLs
+  
+Suspicious Messages/Emails:
+![image](https://github.com/un-shreeya/PhishingDetection_ML/blob/740c26b2cd7a1d2a56272077c1c2da0054f3cfe3/Screenshot%202026-05-20%20142738.png)
+![image](https://github.com/un-shreeya/PhishingDetection_ML/blob/740c26b2cd7a1d2a56272077c1c2da0054f3cfe3/Screenshot%202026-05-20%20143324.png)
+Legitimate Messages/Emails:
+![image](https://github.com/un-shreeya/PhishingDetection_ML/blob/740c26b2cd7a1d2a56272077c1c2da0054f3cfe3/Screenshot%202026-05-20%20143358.png)
+![image](https://github.com/un-shreeya/PhishingDetection_ML/blob/740c26b2cd7a1d2a56272077c1c2da0054f3cfe3/Screenshot%202026-05-20%20143502.png)
+Suspicious URL:
+![image](https://github.com/un-shreeya/PhishingDetection_ML/blob/740c26b2cd7a1d2a56272077c1c2da0054f3cfe3/Screenshot%202026-05-20%20145627.png)
+Legitimate URL:
+![image](https://github.com/un-shreeya/PhishingDetection_ML/blob/740c26b2cd7a1d2a56272077c1c2da0054f3cfe3/Screenshot%202026-05-20%20143823.png)
 
-to estimate whether content may be spam, phishing, or potentially unsafe.
 
 The project combines:
 - Machine Learning models
